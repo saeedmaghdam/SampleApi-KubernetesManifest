@@ -18,7 +18,7 @@ spec:
         app: sample-api
     spec:
       containers:
-      - image: saeedmaghdam/sample-api:35
+      - image: saeedmaghdam/sample-api:36
         name: sample-api
         resources: {}
 status: {}
